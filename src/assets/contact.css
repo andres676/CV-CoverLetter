@@ -1,0 +1,71 @@
+.contactInfo
+{
+    padding-top: 40px;
+}
+.title
+{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.contactInfo ul
+{
+    position: relative;
+}
+.contactInfo ul li
+{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.contactInfo ul li .icon
+{
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: #7EBEEE;
+}
+.contactInfo ul li span
+{
+    color: #fff;
+    font-weight: 300;
+}
+.contactInfo.education li
+{
+    margin-bottom: 15px;
+}
+.contactInfo.education h5
+{
+    color: #369CEB;
+    font-weight: 500;
+}
+.contactInfo.education h4:nth-child(2)
+{
+    color: #fff;
+    font-weight: 500;
+}
+.contactInfo.education h4
+{
+    color: #fff;
+    font-weight: 300;
+}
+.contactInfo.lenguage .percent
+{
+    position: relative;
+    width: 100%;
+    height: 6px;
+    background: #000;
+    display: block;
+    margin-top: 5px;
+}
+.contactInfo.lenguage .percent div
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #369CEB;
+}

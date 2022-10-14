@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display_swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body 
+{
+    background: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+/* colores azul
+    #19476B-
+    #7EBEEE-
+    #369CEB
+    #39556B
+    #2B7AB8
+*/
